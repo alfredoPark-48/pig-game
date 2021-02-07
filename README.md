@@ -1,4 +1,4 @@
-# pig-game
+# Pig Game 
 A simple Pig game created using HTML5, CSS3 and Javascript ES6.
 
 ## Objective
